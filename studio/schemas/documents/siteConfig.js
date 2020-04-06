@@ -36,6 +36,7 @@ export default {
           bcp47.parse(lang) ? true : 'Please use a valid bcp47 code'
         ),
     },
+    /*
     {
       title: 'Brand logo',
       description:
@@ -54,6 +55,7 @@ export default {
         },
       ],
     },
+    */
     {
       title: 'Main navigation',
       name: 'mainNavigation',
